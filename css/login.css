@@ -1,0 +1,95 @@
+table {
+
+	width: 100% !important;
+}
+#login {
+	background: #D6EBD6;
+}
+/*#login input {
+	border: 1px solid grey;
+}*/
+.form_login {
+	text-align: center;
+	padding-top: 50px;
+}
+.form_login_left {
+	padding-top: 33px;
+	width: 100%;
+	padding-bottom: 141px;
+}
+.form_login_left input[type=text], .form_login_left input[type=password], .form_login_left input[type=email] {
+	border-bottom: 1px solid grey;
+	margin-top: 15px;
+	padding: 5px 13px;
+	width: 100%;
+}
+.form_login_left input[type="button"] {
+	font-size: 16px;
+	border: 0;
+	background: none;
+	
+	margin: 0;
+	padding: 0;
+    cursor: pointer;
+}
+.form_login_left input[type="button"]:hover{
+	color: blue;
+}
+
+.form_login_left input[type=checkbox]{
+	font-size: 14px;
+	border: 0;
+	background: none;
+	width: 0%;
+}
+.form_login_left input[type="submit"] {
+	padding: 8px 43px;
+	margin-top: 35px;
+	background: #378437;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 4px;
+	color: #fff;
+}
+.form_login_right {
+	padding-top: 47px;
+	text-align: center;
+}
+.url_facebook input {
+	border: 1px solid #3B5998;
+	padding-bottom: 10px;
+	padding-top: 12px;
+	width: 220px;
+	font-size: 18px;
+	padding-left: 9px;
+	color: #3B5998;
+}
+.url_facebook i {
+	font-size: 25px;
+	padding-left: 17px;
+	background: #3B5998;
+	padding-bottom: 13px;
+	padding-top: 13px;
+	padding-right: 16px;
+	color: #fff;
+}
+.url_google input {
+	border: 1px solid #D34836;
+	padding-bottom: 10px;
+	padding-top: 12px;
+	width: 220px;
+	font-size: 18px;
+	padding-left: 9px;
+	color: #D34836;
+}
+.url_google i {
+	font-size: 21px;
+	padding-left: 17px;
+	background: #D34836;
+	padding-bottom: 14px;
+	padding-top: 16px;
+	padding-right: 13px;
+	color: #fff;
+}
+
+

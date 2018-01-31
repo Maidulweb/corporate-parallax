@@ -1,0 +1,157 @@
+@media all and (max-width: 992px){
+.header_top_middle {
+	font-size: 15px;
+	margin-top: 16%;
+}
+.header_top_middle i {
+	padding: 2px 0px !important;
+}
+.corporate_form {
+	margin-top: 5%;
+}
+.offer p {
+	text-align: left !important;
+}
+.testimonial_caption {
+	padding-bottom: 64px !important;
+}
+.secend_footer h2 {
+    margin-left: -10px !important;
+}
+.secend_footer p {
+	padding-left: 64px !important;
+}
+
+}
+
+@media all and (max-width: 768px){
+.header_top_middle {
+	font-size: 18px;
+	margin-top: 0;
+}
+.header_top_middle i {
+	padding-right: 8px !important;
+}
+.corporate_form {
+	margin-top: 2%;
+}
+.logo {
+    float: left !important;
+	margin-top: 1%;
+}
+.open{
+	height: auto !important;
+   display: block !important;
+	
+}
+.menu_responsive {
+	display: block !important;
+	color: green;
+	float: right;
+	font-size: 41px;
+}
+.ok {
+	height: 0;
+	display: none;
+}
+.ok li{
+	width: 100% !important;
+}
+.down_services {
+	background: #E1FFE0 !important;
+}
+.down_services a{
+	color: #fff !important;
+}
+.offer {
+border-radius: 0 0px 0px 0px !important;
+}
+.news_item h2 {
+	font-size: 17px !important;
+	padding: 8px 0 !important;
+}
+.news_item p {
+    font-size: 15px !important;
+}
+.testimonial_caption h5 {
+	font-size: 16px !important;
+}
+.testimonial_caption p {
+    font-size: 15px !important;
+}
+.testimonial_caption h3 {
+	font-size: 15px !important;
+	margin-top: 3% !important;
+}
+.portfolio_filter img {
+	height: 104px !important;
+}
+.team_caption h5 {
+    font-size: 15px !important;
+}
+.team_caption p{
+	font-size: 14px !important;
+}
+.last_footer_first {
+	text-align: center !important;
+}
+.last_footer_last {
+	text-align: center !important;
+}
+
+}
+
+@media all and (max-width: 575px){
+
+header {
+	position: static !important;
+}
+#corporate_slider {
+	padding-top: 0 !important;
+}
+.offer {
+    border-radius: 0 0px 0px 0px !important;
+}
+.corporate_main_caption {
+	padding-bottom: 76px !important;
+}
+.carousel-caption h5 {
+    font-size: 18px !important;
+}
+.carousel-caption p {
+	font-size: 16px !important;
+}
+.carousel-caption button {
+	padding: 1px 4px !important;
+	margin-left: 5px !important;
+}
+.portfolio ul li {
+	margin-top: 3% !important;
+}
+.portfolio_filter img {
+	width: 60% !important;
+	border-radius: 5px;
+	margin-top: 30px;
+	height: 199px !important;
+}
+.testimonial_caption {
+	padding-bottom: 48px !important;
+}
+.corporate_counter_up {
+	padding-bottom: 25px !important;
+}
+.secend_footer {
+	text-align: center !important;
+}
+.secend_footer p {
+	text-align: justify !important;
+	margin-left: 19% !important;
+}
+.last_footer_first {
+	text-align: center !important;
+}
+.last_footer_last {
+	text-align: center !important;
+}
+
+}
